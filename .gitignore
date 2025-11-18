@@ -1,7 +1,7 @@
 # ExcelやCSVなど、コードから生成されるファイルを無視
-*.xlsx
-*.csv
-*.png
+notebooks/*.xlsx
+notebooks/*.csv
+notebooks/*.png
 
 # 環境ファイルや実行時に生成される一時ファイル
 # .ipynbを実行した際に自動生成されるフォルダやファイルがあればそれも追加
